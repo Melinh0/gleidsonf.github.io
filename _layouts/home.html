@@ -8,6 +8,7 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+    {% include force-https.html %}
 </head>
 <body>
     {% include nav.html %}
@@ -30,6 +31,7 @@ layout: compress
 			            </a>
                     </h3>
                     {% include social-links.html %}
+                
                   <hr class="hr-line">
                   <h3 class="title">
                          <a class="btn zoombtn" href="{{ site.url }}/about">
