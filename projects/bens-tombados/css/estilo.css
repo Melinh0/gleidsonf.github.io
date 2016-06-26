@@ -1,0 +1,140 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    padding-left: 2px;
+}
+#map {
+    height: 100%;
+    padding: 4px;
+}
+
+ #right-panel {
+    font-family: 'Roboto', 'sans-serif';
+    line-height: 30px;
+    padding-left: 10px;
+}
+#right-panel select, #right-panel input {
+    font-size: 15px;
+}
+#right-panel select {
+    width: 100%;
+}
+#right-panel i {
+    font-size: 12px;
+}
+#right-panel {
+    height: 100%;
+    float: right;
+    width: 390px;
+    overflow: auto;
+}
+@media print {
+    #map {
+        height: 500px;
+        margin: 0;
+    }
+    #right-panel {
+        float: none;
+        width: auto;
+    }
+}
+#trajeto-texto {
+    float: left;
+}
+form {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.panel-body p {
+    font-family: 'Yrsa', serif;
+    font-size: 16px;
+}
+.infoBox {
+    background-color: #FFF;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border: 2px solid #3fa7d8;
+    border-radius: 3px;
+    margin-top: 10px
+}
+.infoBox p {
+    padding: 0 15px
+}
+.infoBox:before {
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #3fa7d8;
+    top: -10px;
+    content: "";
+    height: 0;
+    position: absolute;
+    width: 0;
+    left: 138px
+}
+.ui-autocomplete {
+    background: #fff;
+    border-top: 1px solid #ccc;
+    cursor: pointer;
+    font: 15px 'Open Sans', Arial;
+    margin-left: 3px;
+    width: 493px !important;
+    position: fixed;
+}
+.ui-autocomplete .ui-menu-item {
+    list-style: none outside none;
+    padding: 7px 0 9px 10px;
+}
+.ui-helper-hidden-accessible {
+    display: none;
+}
+.ui-autocomplete .ui-menu-item:hover {
+    background: #eee
+}
+.ui-autocomplete .ui-corner-all {
+    color: #666 !important;
+    display: block;
+}
+
+
+/*Icones redes sociais*/
+.icones-redes-sociais li {
+    display: inline-block;
+    float: right;
+}
+
+.icones-redes-sociais a {
+    width: 48px;
+    height: 48px;
+    display: block;
+    text-indent: -99999px;
+    padding: 1px;
+}
+
+  .about {
+      background-image: url(icon/about.png);
+      background-position:center;
+      background-repeat:no-repeat;
+  }
+
+  .facebook {
+      background-image: url(icon/facebook.png);
+      background-position:center;
+      background-repeat:no-repeat;
+  }
+
+  .twitter {
+      background-image: url(icon/twitter.png);
+      background-position:center;
+      background-repeat:no-repeat;
+  }
+
+  .instagram {
+      background-image: url(icon/instagram.png);
+      background-position:center; 
+      background-repeat:no-repeat;
+  }

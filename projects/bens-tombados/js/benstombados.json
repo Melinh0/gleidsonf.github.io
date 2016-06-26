@@ -1,0 +1,2012 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 100,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17bc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.525003906569,
+          -3.7228432271915
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 1,
+        "NOME": "Fortaleza de Nossa Senhora de Assunção",
+        "TTOMB": "Federal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Alberto Nepomuceno s/n<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17bd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.531430649074,
+          -3.7287792147965
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 2,
+        "NOME": "Palacete Carvalho Motta - Centro de Documentação e Referência do Semiárido",
+        "TTOMB": "Federal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Pedro Pereira, n°683, esquina com General Sampaio, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17be",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5263149,
+          -3.7226575
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 3,
+        "NOME": "Passeio Público - Praça dos Mártires",
+        "TTOMB": "Federal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Doutor João Moreira, s/n, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17bf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5319087,
+          -3.7274778
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 4,
+        "NOME": "Theatro José de Alencar",
+        "TTOMB": "Federal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Liberato Barroso, n°525, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17c0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5204303,
+          -3.7208668
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 5,
+        "NOME": "Antiga Alfândega",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Pessoa Anta, n°287, Paria de Iracema<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17c1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.531888583432,
+          -3.7272295513483
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 6,
+        "NOME": "Antiga Escola Normal - Atual Sede do IPHAN",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Liberato Barroso, n°525, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17c2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5264987,
+          -3.7253796
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 7,
+        "NOME": "Banco Frota Gentil",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Floriano Peixoto, n°326, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17c3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.528317,
+          -3.7222574
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 8,
+        "NOME": "Casa de Detenção Ou Antiga Cadeia Pública - Centro de Turismo",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Senador Pompeu, n°350, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17c4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5279906,
+          -3.7275841
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 9,
+        "NOME": "Cine São Luiz",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Major Facundo, n°500, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17c5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5044159,
+          -3.7286279
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 10,
+        "NOME": "Conjunto Palácio da Abolição e Mausoléu Castelo Branco",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Barão de Studart, entre as Ruas Tenente Benévolo e Deputado Moreira da Rocha<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17c6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.529813948965,
+          -3.7217014653007
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 11,
+        "NOME": "Estação Ferroviária Doutor João Pelipe",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Doutor João Moreira, s/n, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17c7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.470556975116,
+          -3.7077795310995
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 12,
+        "NOME": "Farol do Mucuripe",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Vicente de Castro, s/n, Mucuripe<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17c8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53049661475,
+          -3.7221398139165
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 13,
+        "NOME": "Galpões da RFFSA - Extensão do Conjunto da Estação João Felipe",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua 24 de maio, s/n, Praça Castro Carreiro, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17c9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5259575,
+          -3.7232448
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 14,
+        "NOME": "Hotel do Norte - Sedes do IAB-CE, da Orquestra Filarmônica do Estado do Ceará e Museu da Indústria",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Doutor João Moreira, n°143, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17ca",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5265317,
+          -3.7274442
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 15,
+        "NOME": "Igreja de Nossa Senhora do Rosário",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Praça General Tibúrcio - Praça dos Leões, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17cb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.527135026845,
+          -3.7273890232062
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 16,
+        "NOME": "Palacete Ceará - Caixa Econômica 3 da Praça do Ferreira",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Floriano Peixote, n°570, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17cc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5301504,
+          -3.7323202
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 17,
+        "NOME": "Palacete Jeremias Arruda",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Barão do Rio Branco, n°1594, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17cd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.526313932586,
+          -3.7272824872913
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 18,
+        "NOME": "Palácio da Luz - Academia Cearense de Letras",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Sena Madureira - Rua do Rosário<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17ce",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.526133958197,
+          -3.7268939618694
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 19,
+        "NOME": "Praça General Tibúrcio - Praça dos Leões",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua General Bezerril, Rua São Paulo, Rua Sena Madureira<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17cf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5230886,
+          -3.720965
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 20,
+        "NOME": "Secretaria 2 da Fazenda",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Alberto Nepomuceno, n°2, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17d0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.519442312878,
+          -3.7238448662942
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 21,
+        "NOME": "Seminário da Prainha",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Confluência das Ruas Dom Manuel e Monsenhor Tabosa<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17d1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5288816,
+          -3.7243324
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 22,
+        "NOME": "Solar Fernandes Vieira - Arquivo Público",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Senador Pompeu, n°648, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17d2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5268428,
+          -3.7244072
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 23,
+        "NOME": "Sobrado do Doutor José Lourenço",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Major Facundo, n°154, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17d3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.530834074503,
+          -3.7197571066624
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 24,
+        "NOME": "Capela de Santa Teresinha",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Castelo Branco, s/n, Arraial Moura Brasil<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17d4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5162297,
+          -3.7190794
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 25,
+        "NOME": "Estoril",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Tabajara, n°397, Praia de Iracema<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17d5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.495771352148,
+          -3.8284679652952
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 26,
+        "NOME": "Espelho d'água da lagoa de Messejana",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>-<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17d6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56666750083,
+          -3.7692036329953
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 27,
+        "NOME": "Espelho d'água da Lagoa de Parangaba",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>-<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17d7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.467543784476,
+          -3.7422785602455
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 28,
+        "NOME": "Riacho Papicu e suas Margens",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>-<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17d8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.520672980643,
+          -3.7236901415746
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 29,
+        "NOME": "Teatro São José",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Rufino de Alencar, nº 523 - Praça do Cristo Redentor<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17d9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.516928616858,
+          -3.7184788901783
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 30,
+        "NOME": "Ponte dos Ingleses",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua dos Cariris<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17da",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.525726262427,
+          -3.7314440625311
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 31,
+        "NOME": "Parque da LIberdade",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Pedro I, s/n<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17db",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.496924702025,
+          -3.7254753962606
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 32,
+        "NOME": "Feira de Artesanatos da Beira-Mar",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Beira-Mar - s/n<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17dc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.523065511084,
+          -3.7258340526871
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 33,
+        "NOME": "Palácio João Brígido",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua São José, n° 1<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17dd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.522947493887,
+          -3.7256734602754
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 34,
+        "NOME": "Bosque do Pajeú",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua São José, n° 1<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17de",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.523572448588,
+          -3.7277103051922
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 35,
+        "NOME": "Escola Jesus Maria José",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Coronel Ferraz, s/n<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17df",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.532777789927,
+          -3.7327314690894
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 36,
+        "NOME": "Casa do Barão de Camocim",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua General Sampaio, n° 1632<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17e0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.562853399611,
+          -3.7746902505481
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 37,
+        "NOME": "Estação Ferroviária da Parangaba",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Dom Pedro II, s/n<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17e1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.515300515986,
+          -3.7267895769309
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 38,
+        "NOME": "Mercado dos Pinhões",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Praça Visconde de Pelotas<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17e2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.563738528586,
+          -3.7748481575647
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 39,
+        "NOME": "Paróquia do Senhor do Bom Jesus dos Aflitos",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Praça Coronel Alfredo Weyne, nº 100<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17e3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.517137829161,
+          -3.768555942199
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 40,
+        "NOME": "Mercado da Aerolândia",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>BR 116, nº 5431<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17e4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.580883208609,
+          -3.7587013475837
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 41,
+        "NOME": "Casa Rachel de Queiroz",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Antônio Ivo, nº 290<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17e5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.50611395011,
+          -3.7239283541783
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 42,
+        "NOME": "Ideal Club",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Av. Monsenhor Tabosa, nº 1331<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17e6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.523880902625,
+          -3.7392808865235
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 43,
+        "NOME": "Colégio Doroteias",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Visconde do Rio Branco, nº  2078<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17e7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.494355145789,
+          -3.7266156020058
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 44,
+        "NOME": "Náutico Atlético Cearense",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Abolição, nº 2727<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17e8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.554962340689,
+          -3.7609923768093
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 45,
+        "NOME": "IMPARH",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua João Pessoa, nº 5609<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17e9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.527206841803,
+          -3.7223652500745
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 46,
+        "NOME": "Santa Casa de Misericórdia",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Barão do Rio Branco, nº 20<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17ea",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.521938983298,
+          -3.7222340990903
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 47,
+        "NOME": "Pavimentação da Rua José Avelino",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua José Avelino<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17eb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.526511,
+          -3.7264248
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 48,
+        "NOME": "Assembleia Provincial - Museu do Ceará",
+        "TTOMB": "Federal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua São Paulo, 51, Centro<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17ec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.478346491896,
+          -3.8116500677818
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 49,
+        "NOME": "Casa de José de Alencar - Centro de Turismo",
+        "TTOMB": "Federal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Washington Soares, n° 6055, Edson Queiroz<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17ed",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.48032209,
+          -3.722280071
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 50,
+        "NOME": "Igreja de São Pedro dos Pescadores",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Beira Mar, s/n<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17ee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.55325646,
+          -3.756131962
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 51,
+        "NOME": "Casa do Português",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida João Pessoa, 5094<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17ef",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5340733,
+          -3.744087865
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 52,
+        "NOME": "Antiga Sede do Sport Club Maguary",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Barão do Rio Branco, nº 2955<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17f0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52810404,
+          -3.727967252
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 53,
+        "NOME": "Farmácia Oswaldo Cruz",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Major Facundo, nº 576<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17f1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5265497,
+          -3.730986377
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 54,
+        "NOME": "Escola de Música Luís Assunção",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Sólon Pinheiro, nº 60<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17f2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52544195,
+          -3.733761928
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 55,
+        "NOME": "Colégio Marista Cearense",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Duque de Caxias, nº 101<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17f3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.55972192,
+          -3.767450584
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 56,
+        "NOME": "Bar Avião",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua 15 de novembro, nº 09<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17f4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53341884,
+          -3.72687255
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 57,
+        "NOME": "Lord Hotel",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Liberato Barroso,  nº 555<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17f5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56411001,
+          -3.77450558
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 58,
+        "NOME": "Casa da câmara da Villa de Arronches",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Carlos Amora, s/n<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17f6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.51977444,
+          -3.727983312
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 59,
+        "NOME": "Casa Frei Tito de Alencar",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Rodrigues Junior, nº 364<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17f7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54131526,
+          -3.721443178
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 60,
+        "NOME": "Bangalô de Aristides Capibaribe",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Av. Filomeno Gomes, nº 742<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17f8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57739902,
+          -3.808966103
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 61,
+        "NOME": "Paróquia Nossa Senhora do Perpétuo Socorro",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Wenefrido Melo, nº 88<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17f9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56005317,
+          -3.76728197
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 62,
+        "NOME": "Capela do Sagrado Coração de Jesus",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Av. João Pessoa, nº 6590<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17fa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52903611,
+          -3.73542672
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 63,
+        "NOME": "V Batalhão da Polícia Militar",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Antônio Pompeu, nº 555<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17fb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52273292,
+          -3.729757852
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 64,
+        "NOME": "Casa antiga da rua Franklin Távora",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Franklin Távora, nº 144<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17fc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53231913,
+          -3.734067051
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 65,
+        "NOME": "Caixas d'água do Benfica",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Antônio Pompeu, s/n<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17fd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5474307,
+          -3.768732585
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 66,
+        "NOME": "Círculo Operário do Montese",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Aquiles Boris, nº 17<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17fe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.51774401,
+          -3.729313548
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 67,
+        "NOME": "Colégio Militar de Fortaleza",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Av. Santos Dumont, nº 485<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_17ff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52587915,
+          -3.723740996
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 68,
+        "NOME": "Casa na Rua Floriano Peixoto",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Floriano Peixoto, nº 137<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1800",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53880471,
+          -3.720224007
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 69,
+        "NOME": "Cemitério São João Batista",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Padre Mororó, nº 487<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5311336,
+          -3.723734305
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 70,
+        "NOME": "Associação Beneficente do Pessoal da Rede de Viação Cearense",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Senador Alencar, nº 596<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1802",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52641157,
+          -3.723067844
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 71,
+        "NOME": "Associação Comercial",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Major Facundo, nº 02<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1803",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53795579,
+          -3.723829322
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 72,
+        "NOME": "Procuradoria da União no Estado do Ceará",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Guilherme Rocha, nº 1342<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1804",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53925532,
+          -3.723240482
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 73,
+        "NOME": "Bangalô Amarelo",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Guilherme Rocha, nº 1451<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54202873,
+          -3.722691789
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 74,
+        "NOME": "Vila Filomeno",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Av. Francisco Sá, n º1743, 1743A, 1743B / nº 1771, 1771A, 1771B<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1806",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54224867,
+          -3.721401691
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 75,
+        "NOME": "Casa do Acrísio",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua São Paulo, nº 1889<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1807",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52983272,
+          -3.734075081
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 76,
+        "NOME": "Associação Beneficente dos Motoristas do Estado do Ceará",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Major Facundo, nº 1263<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1808",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54550487,
+          -3.721401691
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 77,
+        "NOME": "Prédio na Avenida Francisco Sá",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Francisco Sá, nº 2235<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1809",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52968789,
+          -3.733055328
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 78,
+        "NOME": "Prédio na Rua Major Facundo",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Major Facundo, nº 1154<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_180a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53103301,
+          -3.732364786
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 79,
+        "NOME": "Associação dos Merceeiros",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua General Clarindo de Queiroz, nº 583<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_180b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52969191,
+          -3.732960311
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 80,
+        "NOME": "Casa na Rua Clarindo de Queiroz, nº 615",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Clarindo de Queiroz, nº 615<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_180c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52846212,
+          -3.733510336
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 81,
+        "NOME": "Casa na Rua da Assunção, nº 398",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua da Assunção, nº 398<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_180d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52845139,
+          -3.733403275
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 82,
+        "NOME": "Casa na Rua da Assunção, nº 390",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua da Assunção, nº 390<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_180e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54071713,
+          -3.717863281
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 83,
+        "NOME": "Prédio na Rua Santo Inácio, nº 596",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Santo Inácio, nº 596<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_180f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52274365,
+          -3.730587575
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 84,
+        "NOME": "Casa na Rua 25 de março, nº 747",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua 25 de março, nº 747<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1810",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53596157,
+          -3.732712733
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 85,
+        "NOME": "Imóvel na Av. Imperador, nº 1313",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Imóvel na Av. Imperador, nº 1313<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1811",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5144288,
+          -3.731112174
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 86,
+        "NOME": "Imóvel na Av. Santos Dumont, nº 1112",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Santos Dumont, nº 1112<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1812",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.51520127,
+          -3.730855227
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 87,
+        "NOME": "Imóvel na Av. Santos Dumont, nº 938",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Santos Dumont, nº 938<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1813",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52359122,
+          -3.73235408
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 88,
+        "NOME": "Imóvel na Rua 25 de março, nº 964",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua 25 de março, nº 964<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1814",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.51421422,
+          -3.731165704
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 89,
+        "NOME": "Imóvel na Av. Santos Dumont, nº 1028",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Santos Dumont, nº 1028<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1815",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52184242,
+          -3.727595214
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 90,
+        "NOME": "Colégio Externato São Vicente de Paulo",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua 25 de março, nº 407<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53646583,
+          -3.724121065
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 91,
+        "NOME": "Igreja Nossa Senhora do Patrocínio",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Guilherme Rocha, nº 536<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1817",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53246397,
+          -3.718864315
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 92,
+        "NOME": "Igreja de Santa Edwiges",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Presidente Castelo Branco, nº 600<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1818",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56144256,
+          -3.776911652
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 93,
+        "NOME": "Seminário Salvatoriano",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Germano Frank, 613<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_1819",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52647996,
+          -3.72753633
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 94,
+        "NOME": "Hotel Excelsior",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Guilherme Rocha, n° 172<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_181a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.51063683,
+          -3.722527181
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 95,
+        "NOME": "Condomínio Residencial Iracema",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Antônio Augusto, números 149, 185, 205 e 235<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_181b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52333373,
+          -3.727900339
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 96,
+        "NOME": "Edifício Dona Bela",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Coronel Ferraz, números 30, 62, 76<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_181c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.51703591,
+          -3.730812403
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 97,
+        "NOME": "Igreja do Cristo Rei",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Nogueira Acioli, nº 805<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_181d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.55477995,
+          -3.768786113
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 98,
+        "NOME": "Imóvel residencial no Montese",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua Euzébio de Queiroz, 1591<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_181e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.51453407,
+          -3.73099976
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 99,
+        "NOME": "Imóvel na Av. Santos Dumont, nº 1020",
+        "TTOMB": "Municipal",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Avenida Santos Dumont, nº 1020<br><br><strong>Proteção: <\/strong>Em Processo de Tombamento",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Bens Tombados.fid-2be50750_153af4824fe_181f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52646119,
+          -3.723056469
+        ]
+      },
+      "geometry_name": "THE_GEOM",
+      "properties": {
+        "GID": 100,
+        "NOME": "Sociedade União Cearense",
+        "TTOMB": "Estadual",
+        "DESCRICAO": "<br><strong>Endereço: <\/strong>Rua João Moreira, nº 143<br><br><strong>Proteção: <\/strong>Tombado",
+        "FONTE": "SECULTFOR",
+        "ANO_REF": 2016
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}
