@@ -77,7 +77,7 @@ No portal [Fortaleza dados abertos](http://dados.fortaleza.ce.gov.br/portal/) eu
 
 Considero a aplicação simples, claro. Porém foi uma experiência que ampliou minha vontade contribuir para a sociedade de alguma forma positiva. Passamos diariamente por esses locais e muitas vezes desconhecemos sua história. Existem pontos que eu não sabia se eram tombados ou estavam em processo de tombamento. Pretendo seguir com mais projetos usando dados abertos.
 
-Se você quiser conferir a aplicação, pode acessá-la pelo [link]({{ site.url }}/projects/bens-tombados).
+Se você quiser conferir a aplicação, pode acessá-la pelo <b> [link]({{ site.url }}/projects/bens-tombados) </b>.
 
 ## Preview
 
