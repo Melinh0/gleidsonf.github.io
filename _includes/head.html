@@ -18,12 +18,10 @@
     <meta property="og:locale" content="{{ site.locale }}">
     <meta property="og:type" content="article">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:image" content="{% if page.thumbnail %}{{ http://ap.imagensbrasil.org/images/thumbnail_opendata.jpg | prepend: site.baseurl | prepend: site.url }}{% else %}{{ {{baseurl}}/avatar | prepend: site.baseurl | prepend: site.url }}{% endif %}">
     {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:image" content="http://ap.imagensbrasil.org/images/thumbnail_opendata.jpg">
-<!--    <meta property="og:image" content="{{ site.url }}/{{ site.logo }}">-->
+    <meta property="og:image" content="{{ site.url }}/{{ site.me }}">
     {% if site.google.verify %}
     <!-- Webmaster Tools verfication -->
     <meta name="google-site-verification" content="{{ site.google.verify }}">{% endif %}
