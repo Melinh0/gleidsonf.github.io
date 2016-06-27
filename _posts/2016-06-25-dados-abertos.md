@@ -3,7 +3,7 @@ layout: post
 title:  "Dados abertos"
 date:   2016-06-25
 excerpt: "Que tal falarmos sobre dados abertos?! Nunca ouviu falar? Chega mais!"
-thumbnail: /home/stark/Downloads/thumbnail_opendata.jpg
+thumbnail: http://ap.imagensbrasil.org/images/thumbnail_opendata.jpg
 tag:
 - jekyll 
 - blog
