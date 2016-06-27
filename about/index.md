@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Sobre mim
-tags: [about, Jekyll, theme, moon]
-date: 2016-06-17
+tags: []
+date: 2016-06-26
 comments: false
 ---
     
-<center>Sou estudante de ciência da computação na Universidade Estadual do Ceará e nesse blog você tem uma ideia sobre como funciona minha mente. Pensamentos paralelos sobre os assuntos mais diferentes e desconexos. Mas também poderá encontrar meus projetos de programação</center>
+<center>Sou estudante de ciência da computação na Universidade Estadual do Ceará e nesse blog trato dos assuntos que mais me interessam. Assuntos diferentes sempre serão tratados aqui, sob a minha perspectiva. Tal como meus projetos e estudos sobre desenvolvimento de aplicações.</center>
 
 <hr class="hr-line">
 <center>
