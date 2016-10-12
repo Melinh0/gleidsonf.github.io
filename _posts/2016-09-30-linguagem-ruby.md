@@ -383,3 +383,4 @@ Com o reject seria a mesma coias. Para obeter apenas os números pares, podemos 
 * [The Ruby Way 3ª edição](http://therubyway.io), Hal Fulton
 * [Ruby - Aprenda a programar na linguagem mais divertida](https://www.casadocodigo.com.br/products/livro-ruby), Casa do Código
 
+<i>O arquivo em PDF desta apresentação se encontra [aqui](https://github.com/gleidsonf/ruby-cc/raw/master/clp_ruby_apresentacao.pdf).</i>
