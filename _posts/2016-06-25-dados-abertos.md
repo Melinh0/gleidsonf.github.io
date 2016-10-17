@@ -3,7 +3,7 @@ layout: post
 title:  "Dados abertos"
 date:   2016-06-25
 excerpt: "Que tal falarmos sobre dados abertos?! Nunca ouviu falar? Chega mais!"
-thumbnail: http://ap.imagensbrasil.org/images/thumbnail_opendata.jpg
+thumbnail: comics/thumbnail_opendata.jpg
 tag:
 - jekyll 
 - blog
@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
  
-![Moon Homepage](https://upload.wikimedia.org/wikipedia/commons/c/cc/Open_Data_stickers.jpg)    
+![Moon Homepage]({{ site.url }}/comics/thumbail_opendata.jpg)    
     
 <center><i>O conhecimento é aberto se qualquer pessoa está livre para acessá-lo, utilizá-lo, modificá-lo, e compartilhá‑lo — restrito, no máximo, a medidas que preservam a proveniência e abertura.</i></center>
 

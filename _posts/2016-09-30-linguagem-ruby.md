@@ -2,9 +2,8 @@
 layout: post
 title:  "Ruby - Uma linguagem divertida"
 date:   2016-09-30
-
 excerpt: "Uma abordagem rápida sobre a linguagem de programação ruby com alguns exemplos!"
-thumbnail: http://www.unixstickers.com/image/data/stickers/ruby/ruby%20mashup.sh.png
+imagem: comics/ruby-lang.png
 tag:
 - ruby 
 - programacao
@@ -12,7 +11,7 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](http://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2012/05/tumblr_m3i4qdmtUS1rr8p66o1_500.jpg)
+![Moon Homepage]({{ site.url }}/comics/lang-ruby.jpg)
 <center><i>Ruby</i></center>
 
 # Sumário
