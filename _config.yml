@@ -41,10 +41,10 @@ disqus_shortname:   blogdogleidson
 #bing-verify:
 email:              gleidson.fgs@gmail.com
 twitter:            gleidsons_
-facebook:           gleidson.silva.799
+facebook:           gleidson.fgs
 github:             gleidsonf
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          gleidsonf
 #xing:              username
 instagram:          gleidsonf_
 #lastfm:            username
@@ -63,7 +63,7 @@ instagram:          gleidsonf_
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
